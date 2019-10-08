@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://i.imgur.com/FgBWtED.jpg) bottom center;
   background-size: cover;
 }
 
@@ -21,7 +21,7 @@ body,html {
 .key {
   border: .4rem solid black;
   border-radius: .5rem;
-  margin: 1rem;
+  margin: 15rem 1rem 1rem 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
   transition: all .07s ease;
