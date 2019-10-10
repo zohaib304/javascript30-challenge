@@ -2,3 +2,4 @@
 
 - 01 JavaScript Drum Kit
 - 02 CSS + JS Clock
+- 03 CSS Variables
